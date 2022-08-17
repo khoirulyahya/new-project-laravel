@@ -1,6 +1,7 @@
 <?php // file: oopmvc/index.php
 
-//keterangan update isi file
+//keterangan update isi file umur saya 24
+//saya dari boyolali
 
 //memanggil model
 require_once "model/anggota_model.php";
