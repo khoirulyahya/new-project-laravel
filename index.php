@@ -1,5 +1,7 @@
 <?php // file: oopmvc/index.php
 
+//keterangan update isi file
+
 //memanggil model
 require_once "model/anggota_model.php";
 
