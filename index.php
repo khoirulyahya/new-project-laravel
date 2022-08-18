@@ -3,6 +3,9 @@
 //keterangan update isi file umur saya 24
 //saya dari boyolali
 
+//nomer hanpdohosndan
+//sssasads
+
 //memanggil model
 require_once "model/anggota_model.php";
 
