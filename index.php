@@ -4,7 +4,7 @@
 //saya dari boyolali
 
 //nomer hanpdohosndan
-//sssasads
+sssasads
 
 //memanggil model
 require_once "model/anggota_model.php";
